@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/longmoretim/Jakes-site/static/css/main.23d0e7fa.css",
+    "main.js": "/longmoretim/Jakes-site/static/js/main.b8e9a78f.js",
+    "static/media/meal.mp4": "/longmoretim/Jakes-site/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/longmoretim/Jakes-site/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/knife.png": "/longmoretim/Jakes-site/static/media/knife.dadac1fb53ea10898ac2.png",
+    "static/media/findus.png": "/longmoretim/Jakes-site/static/media/findus.585c393ccd3671513743.png",
+    "static/media/chef.png": "/longmoretim/Jakes-site/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/gallery04.png": "/longmoretim/Jakes-site/static/media/gallery04.8b0e2e6607633912f4e3.png",
+    "static/media/welcome.png": "/longmoretim/Jakes-site/static/media/welcome.70aaaed4de82d20088f4.png",
+    "static/media/laurels.png": "/longmoretim/Jakes-site/static/media/laurels.b053fa94a64626ce951f.png",
+    "static/media/menu.png": "/longmoretim/Jakes-site/static/media/menu.54b7bee530d8f91d2b0c.png",
+    "static/media/gallery02.png": "/longmoretim/Jakes-site/static/media/gallery02.84fbffb39c776c4b9e25.png",
+    "static/media/overlaybg.png": "/longmoretim/Jakes-site/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery03.png": "/longmoretim/Jakes-site/static/media/gallery03.bf8f34b0d47572a27389.png",
+    "static/media/gallery01.png": "/longmoretim/Jakes-site/static/media/gallery01.0584a670e8838386563d.png",
+    "static/media/jakesLawns.png": "/longmoretim/Jakes-site/static/media/jakesLawns.f5ab59118d82f5a5c1bb.png",
+    "static/media/G.png": "/longmoretim/Jakes-site/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/longmoretim/Jakes-site/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/longmoretim/Jakes-site/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/longmoretim/Jakes-site/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/longmoretim/Jakes-site/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/longmoretim/Jakes-site/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/longmoretim/Jakes-site/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/longmoretim/Jakes-site/index.html",
+    "static/media/spoon.svg": "/longmoretim/Jakes-site/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.23d0e7fa.css.map": "/longmoretim/Jakes-site/static/css/main.23d0e7fa.css.map",
+    "main.b8e9a78f.js.map": "/longmoretim/Jakes-site/static/js/main.b8e9a78f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d0e7fa.css",
+    "static/js/main.b8e9a78f.js"
+  ]
+}
